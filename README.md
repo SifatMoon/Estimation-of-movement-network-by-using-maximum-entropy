@@ -1,5 +1,5 @@
 
-This repository contains all the code in the paper: Estimation of swine movement network at farm level in the US from the Census of Agriculture data. [paper](https://www.nature.com/articles/s41598-019-42616-w)
+This repository contains all the codes in the paper: Estimation of swine movement network at farm level in the US from the Census of Agriculture data. [paper](https://www.nature.com/articles/s41598-019-42616-w)
 
 To cite the code. please use the following bibtex entry:
 
