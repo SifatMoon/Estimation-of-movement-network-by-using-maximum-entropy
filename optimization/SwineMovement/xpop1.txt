@@ -1,0 +1,804 @@
+﻿Composite table:
+    c         xTC  xTC.basic
+!   --    -------  ---------
+    1       36392  Basic    
+    2       56794  Basic    
+    3      107184  Basic    
+    4        2073  Basic    
+    5      294362  Basic    
+    6      140678  Basic    
+    7      240800  Basic    
+    8      135403  Basic    
+    9      193373  Basic    
+    10     372762  Basic    
+    11     438072  Basic    
+    12     374395  Basic    
+    13     359106  Basic    
+    14     557905  Basic    
+    15      47681  Basic    
+    16     200665  Basic    
+    17     131340  Basic    
+    18     282516  Basic    
+    19     228587  Basic    
+    20      85338  Basic    
+    21     181608  Basic    
+    22     261084  Basic    
+    23      56615  Basic    
+    24     315477  Basic    
+    25      57290  Basic    
+    26     156486  Basic    
+    27      55105  Basic    
+    28     363437  Basic    
+    29      28114  Basic    
+    30      43216  Basic    
+    31     137271  Basic    
+    32     191652  Basic    
+    33     254042  Basic    
+    34     163235  Basic    
+    35     549493  Basic    
+    36      15402  Basic    
+    37     202217  Basic    
+    38     199917  Basic    
+    39     129205  Basic    
+    40     647537  Basic    
+    41     370569  Basic    
+    42     720009  Basic    
+    43      32787  Basic    
+    44      68285  Basic    
+    45     197113  Basic    
+    46     155641  Basic    
+    47     143381  Basic    
+    48     115777  Basic    
+    49      42711  Basic    
+    50     209509  Basic    
+    51      39124  Basic    
+    52     127168  Basic    
+    53      70382  Basic    
+    54     241012  Basic    
+    55     609437  Basic    
+    56      73620  Basic    
+    57      88708  Basic    
+    58     209571  Basic    
+    59      38037  Basic    
+    60     726730  Basic    
+    61      34334  Basic    
+    62     301296  Basic    
+    63      26763  Basic    
+    64     181741  Basic    
+    65       1339  Basic    
+    66     224241  Basic    
+    67      16148  Basic    
+    68      15202  Basic    
+    69       1337  Basic    
+    70      98300  Basic    
+    71     497223  Basic    
+    72     334938  Basic    
+    73      18802  Basic    
+    74     464236  Basic    
+    75     744433  Basic    
+    76     238701  Basic    
+    77       5475  Basic    
+    78      82575  Basic    
+    79      87330  Basic    
+    80      96204  Basic    
+    81     432045  Basic    
+    82     168995  Basic    
+    83     104625  Basic    
+    84    1176751  Basic    
+    85      77182  Basic    
+    86      93899  Basic    
+    87      76920  Basic    
+    88     105023  Basic    
+    89      89639  Basic    
+    90      36338  Basic    
+    91      10020  Basic    
+    92     986774  Basic    
+    93       9810  Basic    
+    94     185596  Basic    
+    95     154047  Basic    
+    96     125008  Basic    
+    97      40421  Basic    
+    98      54765  Basic    
+    99     483790  Basic    
+    ;
+    xb := 4.236 ;
+
+    xb.basic := 'Basic' ;
+
+Composite table:
+    c   i       xpop  xpop.basic
+!   --  -    -------  ----------
+    1   1         65  Basic     
+    1   2         99  Basic     
+    1   3        0.0  Basic     
+    1   4       1278  Basic     
+    1   5        0.0  NonBasic  
+    1   6        500  Basic     
+    1   7      34450  Basic     
+    2   1         36  Basic     
+    2   2         25  Basic     
+    2   3        0.0  Basic     
+    2   4        0.0  Basic     
+    2   5        0.0  Basic     
+    2   6        999  Basic     
+    2   7      55734  Basic     
+    3   1         45  Basic     
+    3   2         95  Basic     
+    3   3         50  Basic     
+    3   4        0.0  NonBasic  
+    3   5       1710  Basic     
+    3   6       5069  Basic     
+    3   7     100215  Basic     
+    4   1         37  Basic     
+    4   2        0.0  Basic     
+    4   3         50  Basic     
+    4   4        0.0  Basic     
+    4   5        987  Basic     
+    4   6        999  Basic     
+    4   7        0.0  Basic     
+    5   1         72  Basic     
+    5   2        0.0  Basic     
+    5   3        0.0  Basic     
+    5   4        100  Basic     
+    5   5       1312  Basic     
+    5   6        755  Basic     
+    5   7     292123  Basic     
+    6   1         41  Basic     
+    6   2        149  Basic     
+    6   3        289  Basic     
+    6   4        393  Basic     
+    6   5       2050  Basic     
+    6   6       8112  Basic     
+    6   7     129644  Basic     
+    7   1        0.0  Basic     
+    7   2         25  Basic     
+    7   3         99  Basic     
+    7   4        320  Basic     
+    7   5       3067  Basic     
+    7   6       6834  Basic     
+    7   7     230455  Basic     
+    8   1         69  Basic     
+    8   2         98  Basic     
+    8   3        100  Basic     
+    8   4        100  Basic     
+    8   5        499  Basic     
+    8   6        532  Basic     
+    8   7     134005  Basic     
+    9   1         85  Basic     
+    9   2        0.0  Basic     
+    9   3        0.0  Basic     
+    9   4        0.0  Basic     
+    9   5       1328  Basic     
+    9   6       2565  Basic     
+    9   7     189395  Basic     
+    10  1        125  Basic     
+    10  2        145  Basic     
+    10  3         50  Basic     
+    10  4        0.0  NonBasic  
+    10  5       4096  Basic     
+    10  6       6148  Basic     
+    10  7     362198  Basic     
+    11  1         24  Basic     
+    11  2        0.0  Basic     
+    11  3         99  Basic     
+    11  4        0.0  Basic     
+    11  5       4173  Basic     
+    11  6       6504  Basic     
+    11  7     427272  Basic     
+    12  1         32  Basic     
+    12  2        115  Basic     
+    12  3        319  Basic     
+    12  4        724  Basic     
+    12  5        940  Basic     
+    12  6       4754  Basic     
+    12  7     367511  Basic     
+    13  1        122  Basic     
+    13  2         25  Basic     
+    13  3        0.0  NonBasic  
+    13  4        100  Basic     
+    13  5       3590  Basic     
+    13  6       5295  Basic     
+    13  7     349974  Basic     
+    14  1         18  Basic     
+    14  2         98  Basic     
+    14  3        119  Basic     
+    14  4        423  Basic     
+    14  5       7630  Basic     
+    14  6      19404  Basic     
+    14  7     530213  Basic     
+    15  1         10  Basic     
+    15  2         49  Basic     
+    15  3         99  Basic     
+    15  4        408  Basic     
+    15  5        435  Basic     
+    15  6        0.0  NonBasic  
+    15  7      46680  Basic     
+    16  1        127  Basic     
+    16  2         25  Basic     
+    16  3        249  Basic     
+    16  4        312  Basic     
+    16  5       1638  Basic     
+    16  6       2026  Basic     
+    16  7     196288  Basic     
+    17  1         30  Basic     
+    17  2        0.0  Basic     
+    17  3        157  Basic     
+    17  4        100  Basic     
+    17  5       3514  Basic     
+    17  6       5720  Basic     
+    17  7     121819  Basic     
+    18  1          1  Basic     
+    18  2        132  Basic     
+    18  3        0.0  Basic     
+    18  4        377  Basic     
+    18  5       2192  Basic     
+    18  6      14047  Basic     
+    18  7     265767  Basic     
+    19  1         42  Basic     
+    19  2         50  Basic     
+    19  3        331  Basic     
+    19  4        135  Basic     
+    19  5       3265  Basic     
+    19  6       4486  Basic     
+    19  7     220278  Basic     
+    20  1        107  Basic     
+    20  2        192  Basic     
+    20  3        268  Basic     
+    20  4        100  Basic     
+    20  5        200  Basic     
+    20  6        0.0  NonBasic  
+    20  7      84471  Basic     
+    21  1         64  Basic     
+    21  2        0.0  Basic     
+    21  3        198  Basic     
+    21  4        0.0  Basic     
+    21  5        312  Basic     
+    21  6       2900  Basic     
+    21  7     178134  Basic     
+    22  1        130  Basic     
+    22  2        138  Basic     
+    22  3        131  Basic     
+    22  4        429  Basic     
+    22  5       2457  Basic     
+    22  6       9739  Basic     
+    22  7     248060  Basic     
+    23  1         85  Basic     
+    23  2        242  Basic     
+    23  3        313  Basic     
+    23  4        380  Basic     
+    23  5        200  Basic     
+    23  6       2429  Basic     
+    23  7      52966  Basic     
+    24  1        100  Basic     
+    24  2         50  Basic     
+    24  3        683  Basic     
+    24  4        420  Basic     
+    24  5       5320  Basic     
+    24  6       2371  Basic     
+    24  7     306533  Basic     
+    25  1         33  Basic     
+    25  2         98  Basic     
+    25  3         99  Basic     
+    25  4        629  Basic     
+    25  5        598  Basic     
+    25  6       3112  Basic     
+    25  7      52721  Basic     
+    26  1         70  Basic     
+    26  2        245  Basic     
+    26  3         50  Basic     
+    26  4        238  Basic     
+    26  5        694  Basic     
+    26  6       1330  Basic     
+    26  7     153859  Basic     
+    27  1         15  Basic     
+    27  2         25  Basic     
+    27  3        0.0  Basic     
+    27  4        0.0  Basic     
+    27  5        200  Basic     
+    27  6        0.0  Basic     
+    27  7      54865  Basic     
+    28  1         73  Basic     
+    28  2         49  Basic     
+    28  3        488  Basic     
+    28  4        678  Basic     
+    28  5       7101  Basic     
+    28  6      20893  Basic     
+    28  7     334155  Basic     
+    29  1         77  Basic     
+    29  2         25  Basic     
+    29  3         50  Basic     
+    29  4        0.0  Basic     
+    29  5        0.0  NonBasic  
+    29  6       4290  Basic     
+    29  7      23672  Basic     
+    30  1        0.0  Basic     
+    30  2        0.0  Basic     
+    30  3        0.0  Basic     
+    30  4        0.0  Basic     
+    30  5        200  Basic     
+    30  6       1716  Basic     
+    30  7      41300  Basic     
+    31  1         47  Basic     
+    31  2         50  Basic     
+    31  3        0.0  NonBasic  
+    31  4        584  Basic     
+    31  5       6120  Basic     
+    31  6      19117  Basic     
+    31  7     111353  Basic     
+    32  1         10  Basic     
+    32  2         98  Basic     
+    32  3        0.0  Basic     
+    32  4        0.0  Basic     
+    32  5       1809  Basic     
+    32  6        500  Basic     
+    32  7     189235  Basic     
+    33  1         93  Basic     
+    33  2         49  Basic     
+    33  3        0.0  NonBasic  
+    33  4        524  Basic     
+    33  5       3128  Basic     
+    33  6       6100  Basic     
+    33  7     244148  Basic     
+    34  1         15  Basic     
+    34  2        0.0  Basic     
+    34  3         50  Basic     
+    34  4        199  Basic     
+    34  5       1998  Basic     
+    34  6       1859  Basic     
+    34  7     159114  Basic     
+    35  1         18  Basic     
+    35  2        0.0  NonBasic  
+    35  3        217  Basic     
+    35  4        100  Basic     
+    35  5       3224  Basic     
+    35  6       1000  Basic     
+    35  7     544934  Basic     
+    36  1          1  Basic     
+    36  2        0.0  Basic     
+    36  3        0.0  Basic     
+    36  4        100  Basic     
+    36  5        0.0  Basic     
+    36  6        999  Basic     
+    36  7      14302  Basic     
+    37  1         43  Basic     
+    37  2         49  Basic     
+    37  3        138  Basic     
+    37  4        0.0  NonBasic  
+    37  5       1850  Basic     
+    37  6       4315  Basic     
+    37  7     195822  Basic     
+    38  1         20  Basic     
+    38  2        0.0  Basic     
+    38  3        0.0  NonBasic  
+    38  4        199  Basic     
+    38  5       1314  Basic     
+    38  6       2954  Basic     
+    38  7     195430  Basic     
+    39  1          1  Basic     
+    39  2        0.0  Basic     
+    39  3        0.0  Basic     
+    39  4        589  Basic     
+    39  5       2070  Basic     
+    39  6       4910  Basic     
+    39  7     121635  Basic     
+    40  1         96  Basic     
+    40  2        0.0  Basic     
+    40  3        0.0  Basic     
+    40  4        505  Basic     
+    40  5       1154  Basic     
+    40  6       1051  Basic     
+    40  7     644731  Basic     
+    41  1         78  Basic     
+    41  2         25  Basic     
+    41  3         50  Basic     
+    41  4        0.0  NonBasic  
+    41  5       4542  Basic     
+    41  6       7540  Basic     
+    41  7     358334  Basic     
+    42  1         47  Basic     
+    42  2         92  Basic     
+    42  3        198  Basic     
+    42  4        0.0  NonBasic  
+    42  5       3151  Basic     
+    42  6       2148  Basic     
+    42  7     714373  Basic     
+    43  1        0.0  Basic     
+    43  2        0.0  Basic     
+    43  3        198  Basic     
+    43  4        820  Basic     
+    43  5        201  Basic     
+    43  6        0.0  NonBasic  
+    43  7      31568  Basic     
+    44  1          7  Basic     
+    44  2        0.0  Basic     
+    44  3        171  Basic     
+    44  4        0.0  NonBasic  
+    44  5       1119  Basic     
+    44  6       6611  Basic     
+    44  7      60377  Basic     
+    45  1         98  Basic     
+    45  2         49  Basic     
+    45  3        108  Basic     
+    45  4        0.0  NonBasic  
+    45  5        878  Basic     
+    45  6       8087  Basic     
+    45  7     187893  Basic     
+    46  1        0.0  Basic     
+    46  2        0.0  Basic     
+    46  3        227  Basic     
+    46  4        0.0  Basic     
+    46  5        858  Basic     
+    46  6        500  Basic     
+    46  7     154056  Basic     
+    47  1        0.0  Basic     
+    47  2        0.0  Basic     
+    47  3        0.0  Basic     
+    47  4        452  Basic     
+    47  5       1085  Basic     
+    47  6       3370  Basic     
+    47  7     138474  Basic     
+    48  1         97  Basic     
+    48  2        110  Basic     
+    48  3         99  Basic     
+    48  4        0.0  Basic     
+    48  5        948  Basic     
+    48  6        0.0  NonBasic  
+    48  7     114523  Basic     
+    49  1        113  Basic     
+    49  2        145  Basic     
+    49  3         50  Basic     
+    49  4        430  Basic     
+    49  5       1847  Basic     
+    49  6       2889  Basic     
+    49  7      37237  Basic     
+    50  1         85  Basic     
+    50  2         25  Basic     
+    50  3        230  Basic     
+    50  4        131  Basic     
+    50  5       3295  Basic     
+    50  6       1690  Basic     
+    50  7     204053  Basic     
+    51  1         93  Basic     
+    51  2         25  Basic     
+    51  3        198  Basic     
+    51  4        230  Basic     
+    51  5       1020  Basic     
+    51  6       4477  Basic     
+    51  7      33081  Basic     
+    52  1        104  Basic     
+    52  2        103  Basic     
+    52  3        403  Basic     
+    52  4       1373  Basic     
+    52  5       7630  Basic     
+    52  6       3385  Basic     
+    52  7     114170  Basic     
+    53  1        142  Basic     
+    53  2         75  Basic     
+    53  3        170  Basic     
+    53  4        171  Basic     
+    53  5       2555  Basic     
+    53  6       9024  Basic     
+    53  7      58245  Basic     
+    54  1          3  Basic     
+    54  2         83  Basic     
+    54  3        0.0  NonBasic  
+    54  4        881  Basic     
+    54  5       1913  Basic     
+    54  6       4878  Basic     
+    54  7     233254  Basic     
+    55  1         16  Basic     
+    55  2         40  Basic     
+    55  3        100  Basic     
+    55  4       1692  Basic     
+    55  5       3729  Basic     
+    55  6       7248  Basic     
+    55  7     596612  Basic     
+    56  1         86  Basic     
+    56  2         50  Basic     
+    56  3        0.0  Basic     
+    56  4        126  Basic     
+    56  5       1704  Basic     
+    56  6       5920  Basic     
+    56  7      65734  Basic     
+    57  1         61  Basic     
+    57  2         98  Basic     
+    57  3        0.0  NonBasic  
+    57  4        770  Basic     
+    57  5       1434  Basic     
+    57  6       3483  Basic     
+    57  7      82862  Basic     
+    58  1          5  Basic     
+    58  2        0.0  Basic     
+    58  3         98  Basic     
+    58  4        0.0  NonBasic  
+    58  5        901  Basic     
+    58  6       2150  Basic     
+    58  7     206417  Basic     
+    59  1         20  Basic     
+    59  2        0.0  Basic     
+    59  3         99  Basic     
+    59  4        199  Basic     
+    59  5        0.0  Basic     
+    59  6        0.0  NonBasic  
+    59  7      37719  Basic     
+    60  1         88  Basic     
+    60  2         50  Basic     
+    60  3         50  Basic     
+    60  4        170  Basic     
+    60  5       9196  Basic     
+    60  6      18971  Basic     
+    60  7     698205  Basic     
+    61  1        183  Basic     
+    61  2         50  Basic     
+    61  3         50  Basic     
+    61  4        199  Basic     
+    61  5        400  Basic     
+    61  6        0.0  NonBasic  
+    61  7      33452  Basic     
+    62  1          2  Basic     
+    62  2         25  Basic     
+    62  3        100  Basic     
+    62  4        323  Basic     
+    62  5       1701  Basic     
+    62  6      14322  Basic     
+    62  7     284823  Basic     
+    63  1         77  Basic     
+    63  2         98  Basic     
+    63  3        0.0  Basic     
+    63  4        0.0  Basic     
+    63  5       1820  Basic     
+    63  6        0.0  NonBasic  
+    63  7      24768  Basic     
+    64  1         24  Basic     
+    64  2        0.0  Basic     
+    64  3         99  Basic     
+    64  4        200  Basic     
+    64  5        814  Basic     
+    64  6       7924  Basic     
+    64  7     172680  Basic     
+    65  1         40  Basic     
+    65  2         25  Basic     
+    65  3        100  Basic     
+    65  4        100  Basic     
+    65  5       1074  Basic     
+    65  6        0.0  Basic     
+    65  7        0.0  Basic     
+    66  1        169  Basic     
+    66  2         90  Basic     
+    66  3        340  Basic     
+    66  4       1908  Basic     
+    66  5       3116  Basic     
+    66  6       6918  Basic     
+    66  7     211700  Basic     
+    67  1         12  Basic     
+    67  2         25  Basic     
+    67  3        0.0  Basic     
+    67  4        0.0  Basic     
+    67  5        200  Basic     
+    67  6        761  Basic     
+    67  7      15150  Basic     
+    68  1          2  Basic     
+    68  2         25  Basic     
+    68  3        0.0  Basic     
+    68  4        480  Basic     
+    68  5        0.0  Basic     
+    68  6        0.0  Basic     
+    68  7      14695  Basic     
+    69  1         44  Basic     
+    69  2         75  Basic     
+    69  3        0.0  Basic     
+    69  4        0.0  Basic     
+    69  5        718  Basic     
+    69  6        500  Basic     
+    69  7        0.0  NonBasic  
+    70  1         31  Basic     
+    70  2        0.0  Basic     
+    70  3        828  Basic     
+    70  4        329  Basic     
+    70  5       1482  Basic     
+    70  6        0.0  Basic     
+    70  7      95630  Basic     
+    71  1         29  Basic     
+    71  2        0.0  Basic     
+    71  3        0.0  NonBasic  
+    71  4        199  Basic     
+    71  5       3502  Basic     
+    71  6      10798  Basic     
+    71  7     482695  Basic     
+    72  1          1  Basic     
+    72  2        0.0  Basic     
+    72  3        0.0  Basic     
+    72  4        600  Basic     
+    72  5        863  Basic     
+    72  6      10137  Basic     
+    72  7     323337  Basic     
+    73  1         49  Basic     
+    73  2        0.0  Basic     
+    73  3        0.0  Basic     
+    73  4        0.0  Basic     
+    73  5        998  Basic     
+    73  6       1326  Basic     
+    73  7      16429  Basic     
+    74  1          2  Basic     
+    74  2         25  Basic     
+    74  3        0.0  Basic     
+    74  4        192  Basic     
+    74  5       1872  Basic     
+    74  6       9457  Basic     
+    74  7     452688  Basic     
+    75  1         41  Basic     
+    75  2         49  Basic     
+    75  3        121  Basic     
+    75  4        380  Basic     
+    75  5       5722  Basic     
+    75  6      15893  Basic     
+    75  7     722227  Basic     
+    76  1          2  Basic     
+    76  2         25  Basic     
+    76  3        100  Basic     
+    76  4        199  Basic     
+    76  5        408  Basic     
+    76  6       3560  Basic     
+    76  7     234407  Basic     
+    77  1         99  Basic     
+    77  2        0.0  Basic     
+    77  3        0.0  Basic     
+    77  4        0.0  Basic     
+    77  5        400  Basic     
+    77  6        971  Basic     
+    77  7       4005  Basic     
+    78  1         27  Basic     
+    78  2        138  Basic     
+    78  3        360  Basic     
+    78  4        0.0  Basic     
+    78  5       1040  Basic     
+    78  6       4180  Basic     
+    78  7      76830  Basic     
+    79  1          9  Basic     
+    79  2        0.0  Basic     
+    79  3        0.0  Basic     
+    79  4        303  Basic     
+    79  5       1158  Basic     
+    79  6        0.0  NonBasic  
+    79  7      85860  Basic     
+    80  1         38  Basic     
+    80  2         50  Basic     
+    80  3        100  Basic     
+    80  4        0.0  Basic     
+    80  5        200  Basic     
+    80  6       1918  Basic     
+    80  7      93898  Basic     
+    81  1         69  Basic     
+    81  2        156  Basic     
+    81  3        0.0  Basic     
+    81  4        0.0  Basic     
+    81  5       4367  Basic     
+    81  6      17073  Basic     
+    81  7     410380  Basic     
+    82  1        165  Basic     
+    82  2        0.0  Basic     
+    82  3        100  Basic     
+    82  4        472  Basic     
+    82  5        0.0  NonBasic  
+    82  6       3930  Basic     
+    82  7     164328  Basic     
+    83  1          1  Basic     
+    83  2        0.0  Basic     
+    83  3         99  Basic     
+    83  4        284  Basic     
+    83  5       1990  Basic     
+    83  6      10016  Basic     
+    83  7      92235  Basic     
+    84  1         12  Basic     
+    84  2        157  Basic     
+    84  3         50  Basic     
+    84  4        410  Basic     
+    84  5       9230  Basic     
+    84  6      32630  Basic     
+    84  7    1134262  Basic     
+    85  1         82  Basic     
+    85  2         25  Basic     
+    85  3         99  Basic     
+    85  4        380  Basic     
+    85  5       2577  Basic     
+    85  6       7033  Basic     
+    85  7      66986  Basic     
+    86  1         66  Basic     
+    86  2         49  Basic     
+    86  3        198  Basic     
+    86  4        0.0  Basic     
+    86  5        362  Basic     
+    86  6       7559  Basic     
+    86  7      85665  Basic     
+    87  1         14  Basic     
+    87  2        0.0  Basic     
+    87  3         99  Basic     
+    87  4        100  Basic     
+    87  5        356  Basic     
+    87  6        0.0  NonBasic  
+    87  7      76351  Basic     
+    88  1         35  Basic     
+    88  2        0.0  Basic     
+    88  3        0.0  Basic     
+    88  4        0.0  Basic     
+    88  5       1315  Basic     
+    88  6       1072  Basic     
+    88  7     102601  Basic     
+    89  1         70  Basic     
+    89  2        0.0  Basic     
+    89  3         99  Basic     
+    89  4        0.0  Basic     
+    89  5        568  Basic     
+    89  6        0.0  NonBasic  
+    89  7      88902  Basic     
+    90  1         40  Basic     
+    90  2        0.0  Basic     
+    90  3        0.0  Basic     
+    90  4        521  Basic     
+    90  5        499  Basic     
+    90  6       4600  Basic     
+    90  7      30678  Basic     
+    91  1        135  Basic     
+    91  2         98  Basic     
+    91  3         99  Basic     
+    91  4        199  Basic     
+    91  5        416  Basic     
+    91  6        0.0  NonBasic  
+    91  7       9073  Basic     
+    92  1         84  Basic     
+    92  2         91  Basic     
+    92  3        0.0  NonBasic  
+    92  4        455  Basic     
+    92  5       6203  Basic     
+    92  6       7650  Basic     
+    92  7     972291  Basic     
+    93  1          6  Basic     
+    93  2        174  Basic     
+    93  3        0.0  Basic     
+    93  4        0.0  Basic     
+    93  5        0.0  NonBasic  
+    93  6        500  Basic     
+    93  7       9130  Basic     
+    94  1         50  Basic     
+    94  2        0.0  NonBasic  
+    94  3         50  Basic     
+    94  4        398  Basic     
+    94  5       2007  Basic     
+    94  6       1280  Basic     
+    94  7     181811  Basic     
+    95  1          6  Basic     
+    95  2        0.0  NonBasic  
+    95  3        0.0  NonBasic  
+    95  4        257  Basic     
+    95  5       1320  Basic     
+    95  6       2985  Basic     
+    95  7     149479  Basic     
+    96  1         80  Basic     
+    96  2         25  Basic     
+    96  3        496  Basic     
+    96  4        249  Basic     
+    96  5       2437  Basic     
+    96  6       5785  Basic     
+    96  7     115936  Basic     
+    97  1         27  Basic     
+    97  2         25  Basic     
+    97  3        345  Basic     
+    97  4        586  Basic     
+    97  5       2764  Basic     
+    97  6       2000  Basic     
+    97  7      34674  Basic     
+    98  1         30  Basic     
+    98  2        0.0  NonBasic  
+    98  3        200  Basic     
+    98  4        100  Basic     
+    98  5       1054  Basic     
+    98  6       2133  Basic     
+    98  7      51248  Basic     
+    99  1          7  Basic     
+    99  2        0.0  NonBasic  
+    99  3        304  Basic     
+    99  4        199  Basic     
+    99  5        349  Basic     
+    99  6       3335  Basic     
+    99  7     479596  Basic     
+    ;

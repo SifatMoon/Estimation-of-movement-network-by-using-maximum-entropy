@@ -1,0 +1,804 @@
+﻿Composite table:
+    c   i      xpopsales  xpopsales.basic
+!   --  -    -----------  ---------------
+    1   1         31.000  Basic          
+    1   2         90.000  Basic          
+    1   3                 Basic          
+    1   4        731.991  Basic          
+    1   5       1286.000  Basic          
+    1   6        828.009  Basic          
+    1   7      83775.000  Basic          
+    2   1          4.000  Basic          
+    2   2                 Basic          
+    2   3                 Basic          
+    2   4        154.000  Basic          
+    2   5                 Basic          
+    2   6                 NonBasic       
+    2   7     114104.000  Basic          
+    3   1         58.000  Basic          
+    3   2         25.000  Basic          
+    3   3                 Basic          
+    3   4        254.000  Basic          
+    3   5                 NonBasic       
+    3   6       6110.000  Basic          
+    3   7     433254.000  Basic          
+    4   1          7.000  Basic          
+    4   2         25.000  Basic          
+    4   3                 Basic          
+    4   4                 Basic          
+    4   5        400.000  Basic          
+    4   6        999.000  Basic          
+    4   7       3558.000  Basic          
+    5   1         43.009  Basic          
+    5   2         25.000  Basic          
+    5   3                 Basic          
+    5   4        200.000  Basic          
+    5   5        302.991  Basic          
+    5   6       3325.000  Basic          
+    5   7     852493.000  Basic          
+    6   1        216.000  Basic          
+    6   2        101.000  Basic          
+    6   3        189.000  Basic          
+    6   4        207.000  Basic          
+    6   5       1833.000  Basic          
+    6   6       2432.000  Basic          
+    6   7     286605.000  Basic          
+    7   1                 Basic          
+    7   2         98.000  Basic          
+    7   3         99.000  Basic          
+    7   4        199.000  Basic          
+    7   5        509.000  Basic          
+    7   6       6626.000  Basic          
+    7   7     469883.000  Basic          
+    8   1         48.000  Basic          
+    8   2         98.000  Basic          
+    8   3        198.000  Basic          
+    8   4                 Basic          
+    8   5        483.000  Basic          
+    8   6                 NonBasic       
+    8   7     260590.000  Basic          
+    9   1         60.000  Basic          
+    9   2         25.000  Basic          
+    9   3                 Basic          
+    9   4        100.000  Basic          
+    9   5        499.000  Basic          
+    9   6        629.000  Basic          
+    9   7     416966.000  Basic          
+    10  1         37.000  Basic          
+    10  2                 Basic          
+    10  3                 Basic          
+    10  4        270.000  Basic          
+    10  5        200.000  Basic          
+    10  6      10920.000  Basic          
+    10  7     776447.000  Basic          
+    11  1         24.000  Basic          
+    11  2                 Basic          
+    11  3                 Basic          
+    11  4        199.000  Basic          
+    11  5       1108.000  Basic          
+    11  6       7103.000  Basic          
+    11  7    1302361.000  Basic          
+    12  1         96.000  Basic          
+    12  2         25.000  Basic          
+    12  3        121.000  Basic          
+    12  4        100.000  Basic          
+    12  5       1770.000  Basic          
+    12  6       5318.000  Basic          
+    12  7     807138.000  Basic          
+    13  1         31.000  Basic          
+    13  2         49.000  Basic          
+    13  3                 Basic          
+    13  4                 NonBasic       
+    13  5        842.000  Basic          
+    13  6       3205.000  Basic          
+    13  7     671425.000  Basic          
+    14  1         40.000  Basic          
+    14  2         50.000  Basic          
+    14  3        171.000  Basic          
+    14  4        357.000  Basic          
+    14  5       2512.000  Basic          
+    14  6      14993.000  Basic          
+    14  7    1052315.000  Basic          
+    15  1         32.000  Basic          
+    15  2         98.000  Basic          
+    15  3        286.000  Basic          
+    15  4                 Basic          
+    15  5        572.000  Basic          
+    15  6                 NonBasic       
+    15  7     135585.000  Basic          
+    16  1         61.000  Basic          
+    16  2        193.000  Basic          
+    16  3         99.000  Basic          
+    16  4        666.000  Basic          
+    16  5        559.000  Basic          
+    16  6       1600.000  Basic          
+    16  7     451194.000  Basic          
+    17  1        168.000  Basic          
+    17  2         25.000  Basic          
+    17  3                 Basic          
+    17  4        690.000  Basic          
+    17  5       2112.000  Basic          
+    17  6       1426.000  Basic          
+    17  7     263480.000  Basic          
+    18  1         24.000  Basic          
+    18  2         25.000  Basic          
+    18  3        328.000  Basic          
+    18  4        191.000  Basic          
+    18  5       1343.000  Basic          
+    18  6       9597.000  Basic          
+    18  7     620251.000  Basic          
+    19  1         96.000  Basic          
+    19  2        120.000  Basic          
+    19  3         50.000  Basic          
+    19  4                 Basic          
+    19  5       1264.000  Basic          
+    19  6       1326.000  Basic          
+    19  7     495268.000  Basic          
+    20  1         31.000  Basic          
+    20  2        201.000  Basic          
+    20  3                 Basic          
+    20  4        100.000  Basic          
+    20  5        721.000  Basic          
+    20  6        999.000  Basic          
+    20  7     215619.167  Basic          
+    21  1         46.000  Basic          
+    21  2                 Basic          
+    21  3        160.000  Basic          
+    21  4                 Basic          
+    21  5        499.000  Basic          
+    21  6        514.000  Basic          
+    21  7     328348.000  Basic          
+    22  1        134.000  Basic          
+    22  2         25.000  Basic          
+    22  3        189.000  Basic          
+    22  4        285.000  Basic          
+    22  5       2135.000  Basic          
+    22  6       8367.000  Basic          
+    22  7     926786.000  Basic          
+    23  1         79.000  Basic          
+    23  2        148.000  Basic          
+    23  3         99.000  Basic          
+    23  4        458.000  Basic          
+    23  5       1152.000  Basic          
+    23  6       3120.000  Basic          
+    23  7     125773.000  Basic          
+    24  1        216.000  Basic          
+    24  2        141.000  Basic          
+    24  3        785.000  Basic          
+    24  4        224.000  Basic          
+    24  5       2600.000  Basic          
+    24  6      10476.000  Basic          
+    24  7     667640.000  Basic          
+    25  1         48.000  Basic          
+    25  2         98.000  Basic          
+    25  3         50.000  Basic          
+    25  4        139.000  Basic          
+    25  5        710.000  Basic          
+    25  6       4820.000  Basic          
+    25  7      94986.000  Basic          
+    26  1         77.000  Basic          
+    26  2        366.000  Basic          
+    26  3         50.000  Basic          
+    26  4        100.000  Basic          
+    26  5       1662.000  Basic          
+    26  6       1255.000  Basic          
+    26  7     304922.000  Basic          
+    27  1         24.000  Basic          
+    27  2                 Basic          
+    27  3                 Basic          
+    27  4        199.000  Basic          
+    27  5        928.000  Basic          
+    27  6       4540.000  Basic          
+    27  7      68158.000  Basic          
+    28  1         19.000  Basic          
+    28  2         49.000  Basic          
+    28  3        236.000  Basic          
+    28  4       1109.000  Basic          
+    28  5       2784.000  Basic          
+    28  6      27813.000  Basic          
+    28  7     736559.000  Basic          
+    29  1         16.000  Basic          
+    29  2         49.000  Basic          
+    29  3                 Basic          
+    29  4        199.000  Basic          
+    29  5        256.000  Basic          
+    29  6                 NonBasic       
+    29  7     111682.000  Basic          
+    30  1                 NonBasic       
+    30  2                 NonBasic       
+    30  3                 NonBasic       
+    30  4                 NonBasic       
+    30  5                 NonBasic       
+    30  6                 NonBasic       
+    30  7      91373.000  Basic          
+    31  1         37.000  Basic          
+    31  2         49.000  Basic          
+    31  3        225.000  Basic          
+    31  4        612.000  Basic          
+    31  5       2980.000  Basic          
+    31  6       4643.000  Basic          
+    31  7     306669.000  Basic          
+    32  1         24.000  Basic          
+    32  2         25.000  Basic          
+    32  3         50.000  Basic          
+    32  4        100.000  Basic          
+    32  5       1354.000  Basic          
+    32  6        737.000  Basic          
+    32  7     473176.000  Basic          
+    33  1         90.000  Basic          
+    33  2                 Basic          
+    33  3                 Basic          
+    33  4                 Basic          
+    33  5       2185.000  Basic          
+    33  6       3955.000  Basic          
+    33  7     617466.000  Basic          
+    34  1         26.000  Basic          
+    34  2                 Basic          
+    34  3                 Basic          
+    34  4                 Basic          
+    34  5       2034.000  Basic          
+    34  6       5704.000  Basic          
+    34  7     387309.000  Basic          
+    35  1         91.000  Basic          
+    35  2                 Basic          
+    35  3         50.000  Basic          
+    35  4                 NonBasic       
+    35  5        200.000  Basic          
+    35  6       4697.000  Basic          
+    35  7    1041433.000  Basic          
+    36  1          1.000  Basic          
+    36  2                 Basic          
+    36  3         50.000  Basic          
+    36  4                 Basic          
+    36  5        200.000  Basic          
+    36  6                 Basic          
+    36  7      26961.000  Basic          
+    37  1         17.000  Basic          
+    37  2                 Basic          
+    37  3        150.000  Basic          
+    37  4                 Basic          
+    37  5       1115.000  Basic          
+    37  6        883.000  Basic          
+    37  7     437571.000  Basic          
+    38  1         24.000  Basic          
+    38  2                 Basic          
+    38  3                 Basic          
+    38  4        199.000  Basic          
+    38  5       1944.000  Basic          
+    38  6       5126.000  Basic          
+    38  7     375739.000  Basic          
+    39  1         24.000  Basic          
+    39  2                 Basic          
+    39  3        154.000  Basic          
+    39  4        300.000  Basic          
+    39  5        499.000  Basic          
+    39  6       2260.000  Basic          
+    39  7     396059.000  Basic          
+    40  1         25.000  Basic          
+    40  2         25.000  Basic          
+    40  3                 Basic          
+    40  4        248.000  Basic          
+    40  5       1382.000  Basic          
+    40  6       2100.000  Basic          
+    40  7    1615769.000  Basic          
+    41  1         13.000  Basic          
+    41  2                 NonBasic       
+    41  3         50.000  Basic          
+    41  4        199.000  Basic          
+    41  5       1205.000  Basic          
+    41  6       9119.000  Basic          
+    41  7     845835.000  Basic          
+    42  1         47.000  SuperBasic     
+    42  2        202.000  Basic          
+    42  3         99.000  Basic          
+    42  4        308.000  Basic          
+    42  5       1248.000  Basic          
+    42  6       2360.000  Basic          
+    42  7    1447122.000  Basic          
+    43  1                 Basic          
+    43  2                 Basic          
+    43  3        150.000  Basic          
+    43  4        730.000  Basic          
+    43  5        467.000  Basic          
+    43  6        999.000  Basic          
+    43  7      97721.000  Basic          
+    44  1         69.000  Basic          
+    44  2                 Basic          
+    44  3        100.000  Basic          
+    44  4                 Basic          
+    44  5       1044.000  Basic          
+    44  6       1370.000  Basic          
+    44  7     140335.000  Basic          
+    45  1         67.000  Basic          
+    45  2                 Basic          
+    45  3        198.000  Basic          
+    45  4        199.000  Basic          
+    45  5        684.000  Basic          
+    45  6       5880.000  Basic          
+    45  7     549836.000  Basic          
+    46  1          2.000  Basic          
+    46  2                 Basic          
+    46  3                 Basic          
+    46  4        291.000  Basic          
+    46  5       1200.000  Basic          
+    46  6                 NonBasic       
+    46  7     284993.000  Basic          
+    47  1         24.000  Basic          
+    47  2                 Basic          
+    47  3                 Basic          
+    47  4        200.000  Basic          
+    47  5       3100.000  Basic          
+    47  6        776.000  Basic          
+    47  7     384709.000  Basic          
+    48  1         11.000  Basic          
+    48  2         91.000  Basic          
+    48  3        224.000  Basic          
+    48  4        100.000  Basic          
+    48  5        400.000  Basic          
+    48  6       1136.000  Basic          
+    48  7     421581.000  Basic          
+    49  1          2.000  Basic          
+    49  2        202.000  Basic          
+    49  3                 NonBasic       
+    49  4        438.000  Basic          
+    49  5       2653.000  Basic          
+    49  6       3057.000  Basic          
+    49  7      71839.000  Basic          
+    50  1          8.000  Basic          
+    50  2        117.000  Basic          
+    50  3        198.000  Basic          
+    50  4                 NonBasic       
+    50  5       1356.000  Basic          
+    50  6       6363.000  Basic          
+    50  7     351422.000  Basic          
+    51  1         39.000  Basic          
+    51  2        102.000  Basic          
+    51  3        198.000  Basic          
+    51  4        495.000  Basic          
+    51  5        607.000  Basic          
+    51  6       4845.000  Basic          
+    51  7     134050.000  Basic          
+    52  1         85.000  Basic          
+    52  2         98.000  Basic          
+    52  3        256.000  Basic          
+    52  4        679.000  Basic          
+    52  5       6539.000  Basic          
+    52  6       9123.000  Basic          
+    52  7     230076.000  Basic          
+    53  1         31.000  Basic          
+    53  2        132.000  Basic          
+    53  3        297.000  Basic          
+    53  4        100.000  Basic          
+    53  5       2470.000  Basic          
+    53  6       2950.000  Basic          
+    53  7     209178.000  Basic          
+    54  1          1.000  Basic          
+    54  2         25.000  Basic          
+    54  3         60.000  Basic          
+    54  4        370.000  Basic          
+    54  5       1055.000  Basic          
+    54  6       2630.000  Basic          
+    54  7     691291.000  Basic          
+    55  1         27.000  Basic          
+    55  2        105.000  Basic          
+    55  3         50.000  Basic          
+    55  4        274.000  Basic          
+    55  5       4165.000  Basic          
+    55  6       7378.000  Basic          
+    55  7    1338408.000  Basic          
+    56  1         88.000  Basic          
+    56  2                 Basic          
+    56  3                 NonBasic       
+    56  4        200.000  Basic          
+    56  5       1380.000  Basic          
+    56  6       9069.000  Basic          
+    56  7     127174.000  Basic          
+    57  1         58.000  Basic          
+    57  2                 NonBasic       
+    57  3        173.000  Basic          
+    57  4        325.000  Basic          
+    57  5        200.000  Basic          
+    57  6       3884.000  Basic          
+    57  7     320343.000  Basic          
+    58  1         31.000  Basic          
+    58  2                 Basic          
+    58  3         50.000  Basic          
+    58  4        100.000  Basic          
+    58  5        272.000  Basic          
+    58  6        500.000  Basic          
+    58  7     588351.000  Basic          
+    59  1         59.000  Basic          
+    59  2                 Basic          
+    59  3        471.000  Basic          
+    59  4                 Basic          
+    59  5                 Basic          
+    59  6        999.000  Basic          
+    59  7     215398.027  Basic          
+    60  1        100.000  Basic          
+    60  2         50.000  Basic          
+    60  3                 Basic          
+    60  4        188.000  Basic          
+    60  5       3314.000  Basic          
+    60  6      15555.000  Basic          
+    60  7    2120575.000  Basic          
+    61  1         10.000  Basic          
+    61  2         49.000  Basic          
+    61  3                 Basic          
+    61  4                 Basic          
+    61  5        615.000  Basic          
+    61  6       2181.000  Basic          
+    61  7      93294.000  Basic          
+    62  1          5.000  Basic          
+    62  2                 Basic          
+    62  3                 Basic          
+    62  4        177.000  Basic          
+    62  5       1080.000  Basic          
+    62  6       5281.000  Basic          
+    62  7     680774.000  Basic          
+    63  1         54.000  Basic          
+    63  2        124.000  Basic          
+    63  3         50.000  Basic          
+    63  4        538.000  Basic          
+    63  5        610.000  Basic          
+    63  6        500.000  Basic          
+    63  7      78425.000  Basic          
+    64  1          7.000  Basic          
+    64  2         49.000  Basic          
+    64  3         73.000  Basic          
+    64  4                 NonBasic       
+    64  5        900.000  Basic          
+    64  6       7952.000  Basic          
+    64  7     312091.000  Basic          
+    65  1          2.000  Basic          
+    65  2                 Basic          
+    65  3        100.000  Basic          
+    65  4        475.000  Basic          
+    65  5        690.000  Basic          
+    65  6        500.000  Basic          
+    65  7                 NonBasic       
+    66  1        137.000  Basic          
+    66  2        272.000  Basic          
+    66  3        198.000  Basic          
+    66  4        633.000  Basic          
+    66  5       5109.000  Basic          
+    66  6       5809.000  Basic          
+    66  7     521009.000  Basic          
+    67  1          2.000  Basic          
+    67  2                 Basic          
+    67  3         50.000  Basic          
+    67  4                 Basic          
+    67  5        283.000  Basic          
+    67  6                 NonBasic       
+    67  7      41440.000  Basic          
+    68  1          1.000  Basic          
+    68  2                 Basic          
+    68  3                 Basic          
+    68  4        200.000  Basic          
+    68  5        210.009  Basic          
+    68  6                 Basic          
+    68  7     215470.797  Basic          
+    69  1         76.000  Basic          
+    69  2                 Basic          
+    69  3                 Basic          
+    69  4        100.000  Basic          
+    69  5        499.000  Basic          
+    69  6       1058.991  Basic          
+    69  7       1901.009  Basic          
+    70  1          3.000  Basic          
+    70  2                 Basic          
+    70  3        681.000  Basic          
+    70  4        585.000  Basic          
+    70  5       1809.000  Basic          
+    70  6        500.000  Basic          
+    70  7     258334.000  Basic          
+    71  1         13.991  Basic          
+    71  2                 Basic          
+    71  3                 Basic          
+    71  4        164.009  Basic          
+    71  5       4045.000  Basic          
+    71  6       8366.000  Basic          
+    71  7    1180438.000  Basic          
+    72  1         24.000  Basic          
+    72  2         49.000  Basic          
+    72  3        198.000  Basic          
+    72  4        480.000  Basic          
+    72  5        476.000  Basic          
+    72  6       5832.000  Basic          
+    72  7     957382.000  Basic          
+    73  1          4.000  Basic          
+    73  2                 Basic          
+    73  3        198.000  Basic          
+    73  4                 Basic          
+    73  5                 Basic          
+    73  6                 NonBasic       
+    73  7      28349.000  Basic          
+    74  1                 Basic          
+    74  2                 Basic          
+    74  3         99.000  Basic          
+    74  4                 Basic          
+    74  5       2529.000  Basic          
+    74  6       3300.000  Basic          
+    74  7    1053349.000  Basic          
+    75  1         61.000  Basic          
+    75  2        324.000  Basic          
+    75  3        100.000  Basic          
+    75  4        244.000  Basic          
+    75  5       2125.000  Basic          
+    75  6       5462.000  Basic          
+    75  7    1915707.000  Basic          
+    76  1         24.000  Basic          
+    76  2         49.000  Basic          
+    76  3        549.000  Basic          
+    76  4        199.000  Basic          
+    76  5        696.000  Basic          
+    76  6       5250.000  Basic          
+    76  7     629436.000  Basic          
+    77  1         58.000  Basic          
+    77  2         50.000  Basic          
+    77  3         50.000  Basic          
+    77  4        390.000  Basic          
+    77  5                 Basic          
+    77  6        861.000  Basic          
+    77  7      16200.000  Basic          
+    78  1         11.000  Basic          
+    78  2                 Basic          
+    78  3        198.000  Basic          
+    78  4        764.000  Basic          
+    78  5                 NonBasic       
+    78  6       4400.000  Basic          
+    78  7     164312.000  Basic          
+    79  1        216.000  Basic          
+    79  2                 Basic          
+    79  3                 Basic          
+    79  4                 Basic          
+    79  5       1298.000  Basic          
+    79  6       1668.000  Basic          
+    79  7     174442.000  Basic          
+    80  1         35.000  Basic          
+    80  2         48.000  Basic          
+    80  3        100.000  Basic          
+    80  4        200.000  Basic          
+    80  5        499.000  Basic          
+    80  6                 NonBasic       
+    80  7     280570.000  Basic          
+    81  1          2.000  Basic          
+    81  2         25.000  Basic          
+    81  3         99.000  Basic          
+    81  4        221.000  Basic          
+    81  5       1880.000  Basic          
+    81  6       8900.000  Basic          
+    81  7     941960.000  Basic          
+    82  1         57.000  Basic          
+    82  2                 Basic          
+    82  3         50.000  Basic          
+    82  4        100.000  Basic          
+    82  5       2320.000  Basic          
+    82  6        965.000  Basic          
+    82  7     332640.000  Basic          
+    83  1         24.000  Basic          
+    83  2         49.000  Basic          
+    83  3                 Basic          
+    83  4                 Basic          
+    83  5       1410.000  Basic          
+    83  6      10297.000  Basic          
+    83  7     207019.000  Basic          
+    84  1         16.000  Basic          
+    84  2        110.000  Basic          
+    84  3        122.000  Basic          
+    84  4        199.000  Basic          
+    84  5       5096.000  Basic          
+    84  6      21738.000  Basic          
+    84  7    3174058.000  Basic          
+    85  1        147.000  Basic          
+    85  2        101.000  Basic          
+    85  3        374.000  Basic          
+    85  4        199.000  Basic          
+    85  5       1220.000  Basic          
+    85  6       2952.000  Basic          
+    85  7     149894.000  Basic          
+    86  1          6.000  Basic          
+    86  2         49.000  Basic          
+    86  3                 Basic          
+    86  4        161.000  Basic          
+    86  5       1233.000  Basic          
+    86  6       3200.000  Basic          
+    86  7     319931.000  Basic          
+    87  1         28.000  Basic          
+    87  2                 Basic          
+    87  3                 Basic          
+    87  4        199.000  Basic          
+    87  5        483.000  Basic          
+    87  6                 NonBasic       
+    87  7     185865.000  Basic          
+    88  1         24.000  Basic          
+    88  2         50.000  Basic          
+    88  3                 Basic          
+    88  4                 Basic          
+    88  5        919.000  Basic          
+    88  6        500.000  Basic          
+    88  7     435598.000  Basic          
+    89  1         73.000  Basic          
+    89  2         25.000  Basic          
+    89  3                 Basic          
+    89  4        100.000  Basic          
+    89  5                 Basic          
+    89  6       1436.000  Basic          
+    89  7     320189.000  Basic          
+    90  1         29.000  Basic          
+    90  2                 Basic          
+    90  3                 Basic          
+    90  4                 Basic          
+    90  5        499.000  Basic          
+    90  6       4401.000  Basic          
+    90  7      88172.000  Basic          
+    91  1        144.000  Basic          
+    91  2        215.000  Basic          
+    91  3         50.000  Basic          
+    91  4        421.000  Basic          
+    91  5                 Basic          
+    91  6        696.000  Basic          
+    91  7      23092.000  Basic          
+    92  1         60.000  Basic          
+    92  2                 Basic          
+    92  3        100.000  Basic          
+    92  4        151.000  Basic          
+    92  5       3053.000  Basic          
+    92  6       5000.000  Basic          
+    92  7    2347472.000  Basic          
+    93  1          1.000  Basic          
+    93  2        180.000  Basic          
+    93  3                 Basic          
+    93  4                 Basic          
+    93  5                 Basic          
+    93  6                 NonBasic       
+    93  7      21600.000  Basic          
+    94  1         11.000  Basic          
+    94  2                 Basic          
+    94  3                 Basic          
+    94  4        291.000  Basic          
+    94  5       2111.000  Basic          
+    94  6                 NonBasic       
+    94  7     453860.000  Basic          
+    95  1         20.000  Basic          
+    95  2                 NonBasic       
+    95  3                 NonBasic       
+    95  4        199.000  Basic          
+    95  5        626.000  Basic          
+    95  6       5017.000  Basic          
+    95  7     327909.000  Basic          
+    96  1        149.000  Basic          
+    96  2        100.000  Basic          
+    96  3                 NonBasic       
+    96  4        236.000  Basic          
+    96  5       5082.000  Basic          
+    96  6       3869.000  Basic          
+    96  7     346732.000  Basic          
+    97  1         75.000  Basic          
+    97  2                 NonBasic       
+    97  3        325.000  Basic          
+    97  4       1492.000  Basic          
+    97  5       1045.000  Basic          
+    97  6       3500.000  Basic          
+    97  7     157170.000  Basic          
+    98  1         69.000  Basic          
+    98  2                 NonBasic       
+    98  3         50.000  Basic          
+    98  4        370.000  Basic          
+    98  5       1013.000  Basic          
+    98  6       1300.000  Basic          
+    98  7     107748.000  Basic          
+    99  1         75.000  Basic          
+    99  2         25.000  Basic          
+    99  3         50.000  Basic          
+    99  4        100.000  Basic          
+    99  5        913.000  Basic          
+    99  6        500.000  Basic          
+    99  7     831229.000  Basic          
+    ;
+    xbsales := 4.121 ;
+
+    xbsales.basic := 'Basic' ;
+
+Composite table:
+    c        xTCsales  xTCsales.basic
+!   --    -----------  --------------
+    1       86742.000  Basic         
+    2      114262.000  Basic         
+    3      439701.000  Basic         
+    4        4989.000  Basic         
+    5      856389.000  Basic         
+    6      291583.000  Basic         
+    7      477414.000  Basic         
+    8      261417.000  Basic         
+    9      418279.000  Basic         
+    10     787874.000  Basic         
+    11    1310795.000  Basic         
+    12     814568.000  Basic         
+    13     675552.000  Basic         
+    14    1070438.000  Basic         
+    15     136573.000  Basic         
+    16     454372.000  Basic         
+    17     267901.000  Basic         
+    18     631759.000  Basic         
+    19     498124.000  Basic         
+    20     217671.167  Basic         
+    21     329567.000  Basic         
+    22     937921.000  Basic         
+    23     130829.000  Basic         
+    24     682082.000  Basic         
+    25     100851.000  Basic         
+    26     308432.000  Basic         
+    27      73849.000  Basic         
+    28     768569.000  Basic         
+    29     112202.000  Basic         
+    30      91373.000  Basic         
+    31     315215.000  Basic         
+    32     475466.000  Basic         
+    33     623696.000  Basic         
+    34     395073.000  Basic         
+    35    1046471.000  Basic         
+    36      27212.000  Basic         
+    37     439736.000  Basic         
+    38     383032.000  Basic         
+    39     399296.000  Basic         
+    40    1619549.000  Basic         
+    41     856421.000  Basic         
+    42    1451386.000  Basic         
+    43     100067.000  Basic         
+    44     142918.000  Basic         
+    45     556864.000  Basic         
+    46     286486.000  Basic         
+    47     388809.000  Basic         
+    48     423543.000  Basic         
+    49      78191.000  Basic         
+    50     359464.000  Basic         
+    51     140336.000  Basic         
+    52     246856.000  Basic         
+    53     215158.000  Basic         
+    54     695432.000  Basic         
+    55    1350407.000  Basic         
+    56     137911.000  Basic         
+    57     324983.000  Basic         
+    58     589304.000  Basic         
+    59     216927.027  Basic         
+    60    2139782.000  Basic         
+    61      96149.000  Basic         
+    62     687317.000  Basic         
+    63      80301.000  Basic         
+    64     321072.000  Basic         
+    65       1767.000  Basic         
+    66     533167.000  Basic         
+    67      41775.000  Basic         
+    68     215881.807  Basic         
+    69       3635.000  Basic         
+    70     261912.000  Basic         
+    71    1193027.000  Basic         
+    72     964441.000  Basic         
+    73      28551.000  Basic         
+    74    1059277.000  Basic         
+    75    1924023.000  Basic         
+    76     636203.000  Basic         
+    77      17609.000  Basic         
+    78     169685.000  Basic         
+    79     177624.000  Basic         
+    80     281452.000  Basic         
+    81     953087.000  Basic         
+    82     336132.000  Basic         
+    83     218799.000  Basic         
+    84    3201339.000  Basic         
+    85     154887.000  Basic         
+    86     324580.000  Basic         
+    87     186575.000  Basic         
+    88     437091.000  Basic         
+    89     321823.000  Basic         
+    90      93101.000  Basic         
+    91      24618.000  Basic         
+    92    2355836.000  Basic         
+    93      21781.000  Basic         
+    94     456273.000  Basic         
+    95     333771.000  Basic         
+    96     356168.000  Basic         
+    97     163607.000  Basic         
+    98     110550.000  Basic         
+    99     832892.000  Basic         
+    ;
